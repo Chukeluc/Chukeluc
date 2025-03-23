@@ -24,7 +24,7 @@ I’m known for being a dependable and collaborative problem-solver,
 - [LinkedIn: stephen-chukelu](https://www.linkedin.com/in/stephen-chukelu)
 - 📧 chukeluc@gmail.com
 
-⚡ Fun fact: I love grilling chicken and experimenting with food analytics — one flavor at a time!
+⚡ Fun fact: I love grilling chicken.
 
 <!---
 Chukeluc/Chukeluc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
