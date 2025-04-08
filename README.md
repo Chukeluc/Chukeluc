@@ -1,17 +1,16 @@
 👋 Hi, I’m Stephen Chukelu
 
-🎓 I’m a data-driven professional with a passion for tackling analytical challenges. My mission is to help companies analyze their data and uncover valuable insights tailored to their business goals.
+I help organizations find clarity in complexity by transforming raw data into meaningful, actionable insights.
 
-I’m skilled across all stages of an analytics project — from identifying business problems and preparing data, to building statistical models and creating impactful visualizations. I’m proficient in SQL, Python, R, Tableau, and Excel — tools that empower me to deliver meaningful, data-backed solutions.
+As an aspiring Data Analyst and Business Analytics professional, I’m a lifelong learner passionate about solving problems through data storytelling, predictive modeling, and business intelligence. My goal is to go beyond the numbers — to ask the right questions, uncover hidden patterns, and deliver insights that create real business value.
 
-Currently, I’m pursuing a postgraduate certificate in Business Analytics and Insights, further developing my expertise in analytics, strategy, and business intelligence.
-
-I’m known for being a dependable and collaborative problem-solver,
+This ePortfolio showcases my academic and practical journey into the world of analytics, highlighting key projects, tools, and techniques I’ve used to bring data to life.
 
 🔍 My core interests include:
-- **Marketing & Financial Analytics**
 - **Predictive Modeling & Machine Learning**
 - **Business Intelligence & Data Visualization**
+- **Financial & Customer Analytics**
+
 
 💡 Tools I work with:
 - **Python** (Pandas, Scikit-learn, Matplotlib, XGBoost)
